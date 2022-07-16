@@ -1,5 +1,5 @@
-./env
-./url_shortener/__pycache__
-./shortener/__pycache__
-./shortener/migrations
+/env
+/url_shortener/__pycache__
+/shortener/__pycache__
+/shortener/migrations
 
