@@ -1,0 +1,7 @@
+<form action="{% url 'search' %}">
+    <input name="search" type="text" value={{q}}>
+</form>
+
+{% for val in value %}
+{{ val.url }}
+{% endfor %} 
